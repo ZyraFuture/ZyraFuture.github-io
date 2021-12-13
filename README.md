@@ -1,2 +1,2 @@
-# ZyraFuture.github-io
+# ZyraFuture.github.io
 Escuela Virtual
